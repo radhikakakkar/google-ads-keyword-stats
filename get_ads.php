@@ -1,4 +1,3 @@
-<!-- https://varilytics.com/spaceseat/gads/get_ads.php?keywords=amazon,codenia -->
 <?php
 header('Access-Control-Allow-Origin:  *');
     $filename = "main.py";
